@@ -8,3 +8,7 @@
   
 **2 - Upload through customized user interface**
 
+
+**Links**
+https://cloud.google.com/appengine/docs/standard/python3/building-app
+https://blog.miguelgrinberg.com/post/handling-file-uploads-with-flask
